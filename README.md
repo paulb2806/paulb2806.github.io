@@ -1,3 +1,5 @@
+Personal website of Dr. Paul Barrère, currently postdoctoral astrophysicist at the Observatory of Geneva.
+
 Website inpired by that of Khaled Al Moulla (almoulla.github.io)
 
 Landed by HTML5 UP
