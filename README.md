@@ -1,4 +1,4 @@
-Personal website of Dr. Paul Barrère, currently postdoctoral astrophysicist at the Observatory of Geneva.
+Personal website of Dr. Paul Barrère, currently postdoctoral astrophysicist at the Observatory of Geneva (email: paul.barrere@unige.ch).
 
 Website inpired by that of Khaled Al Moulla (almoulla.github.io)
 
